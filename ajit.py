@@ -1,7 +1,4 @@
 class Ajit:
-    def __init__(self):
-        pass
-
     def post_fake_comments(self):
         """Post fake FCC comments."""
         print("Stealing identities.....")

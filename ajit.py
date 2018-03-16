@@ -1,6 +1,6 @@
 class Ajit:
     def picture(self):
-        print("""                                         
+        return """                                         
                  :+@@@#'`                
                '@@@@@@@@@@.              
              `@@@@####@@@@@#`            
@@ -42,8 +42,7 @@ class Ajit:
               `'';;;'''';'````#####;     
               `:';:;;;;;;````+#######    
               ,`;;;;;;;``````##########  
-            .#'``;;;;;    ``############+
-              """)
+            .#'``;;;;;    ``############+"""
     def post_fake_comments(self):
         """Post fake FCC comments."""
         print("Stealing identities.....")
